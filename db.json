@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "shiv",
+      "email": "shiv@gmail.com",
+      "phone": "7503807154",
+      "id": 1
+    },
+    {
+      "name": "rudra",
+      "email": "rudra@gmail.com",
+      "phone": "7503807154",
+      "id": 2
+    },
+    {
+      "name": "shiv",
+      "email": "kjdskld@sodsio.dsd",
+      "phone": "7503807154",
+      "id": 3
+    }
+  ]
+}
